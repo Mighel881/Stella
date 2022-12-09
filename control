@@ -1,0 +1,12 @@
+Package: com.yan.stella
+Name: Stella
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Let it snow on your device
+Maintainer: yan
+Author: yan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Depiction: https://yandevelop.github.io/depic/Stella/index.html
+SileoDepiction: https://yandevelop.github.io/depic/Stella/StellaDepiction.json
